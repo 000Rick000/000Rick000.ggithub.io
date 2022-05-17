@@ -1,2 +1,2 @@
-# 000Rick000.ggithub.io
+# 000Rick000.github.io
 demo page
